@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **AWS Cloud**
 
 - 📫 How to reach me **rohandesai664@gmail.com**
-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+- <img align="right" alt="Coding" width="400" src="https://jamfeely-trippygifs.tumblr.com/post/633194004327120896/20200209-code-i-could-tweet">
 
 
 <h3 align="left">Connect with me:</h3>
