@@ -5,7 +5,7 @@
 🎓  I am currently studying imformation technology at saraswati college of engineering,navi mumbai.<br>
 💡   I am on track for learning more about reactjs , advanced javascript.<br>
 🎥  In my free time,I watch movies.<br>
-💬  How to reach me **rohandesai664@gmail.com**<br>
+💬  How to reach me <a href="mailto:rohandesai664@gmail.com">rohandesai664@gmail.com</a><br>
 📫  You can check my <a href="#">Resume</a> for more details about work experience.
 
 
