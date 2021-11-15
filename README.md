@@ -1,5 +1,5 @@
 
-<img src="https://images.news18.com/ibnlive/uploads/2020/04/1586930283_learning-to-code.jpg">
+<img src="https://edsurge.imgix.net/uploads/post/image/12176/coding-1556754232.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop">
 <h1 align="center">Hi 👋, I'm Rohan Vasant Desai</h1>
 <h3 align="center">A passionate web developer</h3>
 - 🌱 I’m currently learning **AWS Cloud** <br>
