@@ -7,7 +7,7 @@
 🎥  In my free time,I watch movies.<br>
 💬  How to reach me <a href="mailto:rohandesai664@gmail.com">rohandesai664@gmail.com</a><br>
 📫  You can check my <a href="#">Resume</a> for more details about work experience.
-<p align="right"><img src="https://static.collectui.com/shots/3773756/working-from-home-large" alt="Computer man" style="position:relative;top:20px;width:800px;height:300px;"></p>
+<p align="right"><img src=https://cdn.dribbble.com/users/2520294/screenshots/7269423/media/8db02365a1363822ae9f0554cf3d4469.gif" alt="Computer man" style="position:relative;top:20px;width:800px;height:300px;"></p>
 
 <hr>
 <h3 align="center">Connect with me:</h3>
