@@ -2,11 +2,11 @@
 <img src="https://edsurge.imgix.net/uploads/post/image/12176/coding-1556754232.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop">
 <h1 align="center">Hi 👋, I'm Rohan Vasant Desai</h1>
 <h3 align="center">software engineering</h3>
-- 💡  I am currently studying imformation technology at saraswati college of engineering,navi mumbai.
--  I am on track for learning more about reactjs , advanced javascript.
--  In my free time,I watch movies.
-- 📫 How to reach me **rohandesai664@gmail.com**
-- 📫 You can check my Resume for more details about work experience.
+🎓  I am currently studying imformation technology at saraswati college of engineering,navi mumbai.<br>
+💡   I am on track for learning more about reactjs , advanced javascript.<br>
+🎥  In my free time,I watch movies.<br>
+💬  How to reach me **rohandesai664@gmail.com**<br>
+📫  You can check my Resume for more details about work experience.
 
 
 
