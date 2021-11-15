@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohan Vasant Desai</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src=" "></img>
 - 🌱 I’m currently learning **AWS Cloud**
 
 - 📫 How to reach me **rohandesai664@gmail.com**
