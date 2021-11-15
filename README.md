@@ -7,7 +7,7 @@
 🎥  In my free time,I watch movies.<br>
 💬  How to reach me <a href="mailto:rohandesai664@gmail.com">rohandesai664@gmail.com</a><br>
 📫  You can check my <a href="#">Resume</a> for more details about work experience.
-
+<img src="https://i.gifer.com/5eKX.gif" alt="Computer man" style="width:48px;height:48px;">
 
 <hr>
 <h3 align="center">Connect with me:</h3>
