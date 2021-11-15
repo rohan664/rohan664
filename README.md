@@ -1,5 +1,5 @@
 
-<img src="https://yaya.studio/wp-content/uploads/2018/10/Welcome-3.gif">
+<img src="https://yaya.studio/wp-content/uploads/2018/10/Welcome-3.gif" style="width:1000px;height:250px;">
 <h1 align="center">Hi 👋, I'm Rohan Vasant Desai</h1>
 <h3 align="center">🖥️🖱️ passinate Developer 🖥️🖱️</h3>
 🎓  I am currently studying imformation technology at saraswati college of engineering,navi mumbai.<br>
@@ -7,7 +7,7 @@
 🎥  In my free time,I watch movies.<br>
 💬  How to reach me <a href="mailto:rohandesai664@gmail.com">rohandesai664@gmail.com</a><br>
 📫  You can check my <a href="https://github.com/rohan664/rohan664/blob/main/rohan_resume.pdf">Resume</a> for more details about work experience.
-<p align="right"><img src="https://institute.careerguide.com/wp-content/uploads/2020/09/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif" alt="Computer man" style="position:relative;top:20px;width:1000px;height:350px;"></p>
+<p align="right"><img src="https://static.wixstatic.com/media/b44604_eb3e4922cf4142818905da9caf4b6388~mv2.gif" alt="Computer man" style="position:relative;top:20px;width:1000px;height:350px;"></p>
 
 <hr>
 <h3 align="center">Connect with me:</h3>
