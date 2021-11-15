@@ -6,7 +6,7 @@
 💡   I am on track for learning more about reactjs , advanced javascript.<br>
 🎥  In my free time,I watch movies.<br>
 💬  How to reach me <a href="mailto:rohandesai664@gmail.com">rohandesai664@gmail.com</a><br>
-📫  You can check my <a href="#">Resume</a> for more details about work experience.
+📫  You can check my <a href="https://github.com/rohan664/rohan664/blob/main/rohan_resume.pdf">Resume</a> for more details about work experience.
 <p align="right"><img src="https://institute.careerguide.com/wp-content/uploads/2020/09/Blog-Post-Graphic-How-to-design-the-perfect-MMS_gif.gif" alt="Computer man" style="position:relative;top:20px;width:1000px;height:350px;"></p>
 
 <hr>
