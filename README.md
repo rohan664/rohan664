@@ -6,7 +6,7 @@
 💡   I am on track for learning more about reactjs , advanced javascript.<br>
 🎥  In my free time,I watch movies.<br>
 💬  How to reach me <a href="mailto:rohandesai664@gmail.com">rohandesai664@gmail.com</a><br>
-📫  You can check my <a href="https://github.com/rohan664/rohan664/blob/main/rohan_resume.pdf">Resume</a> for more details about work experience.
+📫  You can check my <a href="RohanDesai-Resume.pdf">Resume</a> for more details about work experience.
 <p align="right"><img src="https://static.wixstatic.com/media/b44604_eb3e4922cf4142818905da9caf4b6388~mv2.gif" alt="Computer man" style="position:relative;top:20px;width:1000px;height:350px;"></p>
 
 <hr>
