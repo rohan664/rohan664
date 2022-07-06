@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Vasant Desai</h1>
 <h3 align="center">🖥️🖱️ passinate Developer 🖥️🖱️</h3>
 🎓  I am currently studying imformation technology at saraswati college of engineering,navi mumbai.<br>
-💡   I am on track for learning more about reactjs , advanced javascript.<br>
+💡   I am on track for learning more about full stack java< and blockchain <br>
 🎥  In my free time,I watch movies.<br>
 💬  How to reach me <a href="mailto:rohandesai664@gmail.com">rohandesai664@gmail.com</a><br>
 📫  You can check my <a href="RohanDesai-Resume.pdf">Resume</a> for more details about work experience.
